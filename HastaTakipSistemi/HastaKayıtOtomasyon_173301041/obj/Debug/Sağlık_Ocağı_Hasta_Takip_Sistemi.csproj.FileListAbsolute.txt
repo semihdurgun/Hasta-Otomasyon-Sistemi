@@ -1,0 +1,172 @@
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\bin\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.exe.config
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\bin\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.exe
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\bin\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.pdb
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\bin\Debug\EntityFramework.dll
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\bin\Debug\EntityFramework.xml
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csprojAssemblyReference.cache
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.AnaForm.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Views.DosyaBulForm.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Views.HastaBilgileriForm.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Views.HastaIslemleriForm.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Views.KullaniciTanitmaForm.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Views.KullaniciTanitmaOnForm.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.LoginForm.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Properties.Resources.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Views.PoliklinikTanitmaForm.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Views.PoliklinikTanitmaOnForm.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Views.RaporlarForm.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Views.TaburcuForm.resources
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.GenerateResource.cache
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CopyComplete
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.exe
+C:\Users\furka\source\repos\2-PROGLAMA DİLİ ÖDEVLERİ\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.pdb
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.AnaForm.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.DosyaBulForm.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.HastaBilgileriForm.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.HastaIslemleriForm.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.KullaniciTanitmaForm.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.KullaniciTanitmaOnForm.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.LoginForm.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Properties.Resources.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.PoliklinikTanitmaForm.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.PoliklinikTanitmaOnForm.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.RaporlarForm.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.TaburcuForm.resources
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.GenerateResource.cache
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\bin\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.exe.config
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\bin\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.exe
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\bin\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.pdb
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\bin\Debug\EntityFramework.dll
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\bin\Debug\EntityFramework.xml
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CopyComplete
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.exe
+C:\Users\Talha GÖK\Desktop\Saglik_Ocagi_Masaustu_Otomasyonu-master\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.pdb
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\bin\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.exe.config
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\bin\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.exe
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\bin\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.pdb
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\bin\Debug\EntityFramework.dll
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\bin\Debug\EntityFramework.xml
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csprojAssemblyReference.cache
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.AnaForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.DosyaBulForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.HastaBilgileriForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.HastaIslemleriForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.KullaniciTanitmaForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.KullaniciTanitmaOnForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.LoginForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.Properties.Resources.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.PoliklinikTanitmaForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.PoliklinikTanitmaOnForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.RaporlarForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.TaburcuForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.GenerateResource.cache
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CopyComplete
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.exe
+C:\Users\Talha GÖK\Desktop\talha ödev\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi_163301012.pdb
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\bin\Debug\Talha_GOK_173301016.exe.config
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\bin\Debug\Talha_GOK_173301016.exe
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\bin\Debug\Talha_GOK_173301016.pdb
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\bin\Debug\EntityFramework.dll
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\bin\Debug\EntityFramework.xml
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csprojAssemblyReference.cache
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.AnaForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.DosyaBulForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.HastaBilgileriForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.HastaIslemleriForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.KullaniciTanitmaForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.KullaniciTanitmaOnForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.LoginForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Properties.Resources.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.PoliklinikTanitmaForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.PoliklinikTanitmaOnForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.RaporlarForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.Views.TaburcuForm.resources
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.GenerateResource.cache
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CopyComplete
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.exe
+C:\Users\Talha GÖK\Desktop\talha ödev - Kopya (2)\Talha_GOK_173301016\obj\Debug\Talha_GOK_173301016.pdb
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csprojAssemblyReference.cache
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.Properties.Resources.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.GenerateResource.cache
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CoreCompileInputs.cache
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.exe
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.pdb
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.AnaForm.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.Views.DosyaBulForm.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.HastaIslemleriForm.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.Views.KullaniciTanitmaForm.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.Views.KullaniciTanitmaOnForm.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.LoginForm.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.HastaBilgileriForm.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.PoliklinikTanitmaForm.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.Views.PoliklinikTanitmaOnForm.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.Views.RaporlarForm.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Mertcan_CİHAN_173301077.Views.TaburcuForm.resources
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\bin\Debug\Mertcan_CİHAN_173301077.exe.config
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\bin\Debug\Mertcan_CİHAN_173301077.exe
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\bin\Debug\Mertcan_CİHAN_173301077.pdb
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\bin\Debug\EntityFramework.dll
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\bin\Debug\EntityFramework.xml
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talha GÖK\Desktop\mert ödev\Mertcan_CİHAN_173301077\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CopyComplete
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.dll
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.xml
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csprojAssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CopyComplete
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.AnaForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.HastaBilgileriForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.HastaIslemleriForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.LoginForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.Properties.Resources.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.PoliklinikTanitmaForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.exe
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.pdb
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.exe.config
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.exe
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.pdb
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.DosyaBulForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.KullaniciTanitmaForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.KullaniciTanitmaOnForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.PoliklinikTanitmaOnForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.RaporlarForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.TaburcuForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.exe.config
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.exe
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.pdb
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.dll
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.xml
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csprojAssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.AnaForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.DosyaBulForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.HastaBilgileriForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.HastaIslemleriForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.KullaniciTanitmaForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.KullaniciTanitmaOnForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.LoginForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.Properties.Resources.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.PoliklinikTanitmaForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.PoliklinikTanitmaOnForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.RaporlarForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.TaburcuForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\Sağlık_Ocağı_Hasta_Takip_Sistemi.csproj.CopyComplete
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.exe
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.pdb

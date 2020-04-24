@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SOHATSModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Cikis">
+    <Key>
+      <PropertyRef Name="CikisId" />
+    </Key>
+    <Property Name="CikisId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DosyaNo" Type="int" Nullable="false" />
+    <Property Name="SevkTarihi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="CikisTarihi" Type="nvarchar" MaxLength="50" />
+    <Property Name="Odeme" Type="nvarchar" MaxLength="20" />
+    <Property Name="ToplamTutar" Type="nvarchar" MaxLength="20" />
+  </EntityType>
+  <EntityType Name="Hasta">
+    <Key>
+      <PropertyRef Name="DosyaNo" />
+    </Key>
+    <Property Name="DosyaNo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="TckimlikNo" Type="nvarchar" MaxLength="11" Nullable="false" />
+    <Property Name="Ad" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="Soyad" Type="nvarchar" MaxLength="15" Nullable="false" />
+    <Property Name="DogumYeri" Type="nvarchar" MaxLength="15" />
+    <Property Name="DogumTarihi" Type="datetime" />
+    <Property Name="BabaAdi" Type="nvarchar" MaxLength="15" />
+    <Property Name="AnneAdi" Type="nvarchar" MaxLength="15" />
+    <Property Name="Cinsiyet" Type="nvarchar" MaxLength="5" />
+    <Property Name="KanGrubu" Type="nvarchar" MaxLength="5" />
+    <Property Name="MedeniHal" Type="nvarchar" MaxLength="5" />
+    <Property Name="Adres" Type="nvarchar" MaxLength="255" />
+    <Property Name="Tel" Type="nvarchar" MaxLength="20" />
+    <Property Name="KurumSicilNo" Type="nvarchar" MaxLength="10" />
+    <Property Name="KurumAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="YakinTel" Type="nvarchar" MaxLength="20" />
+    <Property Name="YakinKurumSicilNo" Type="nvarchar" MaxLength="10" />
+    <Property Name="YakinKurumAdi" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Islem">
+    <Key>
+      <PropertyRef Name="IslemId" />
+    </Key>
+    <Property Name="IslemId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IslemAdi" Type="nvarchar" MaxLength="50" />
+    <Property Name="BirimFiyat" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Kullanici">
+    <Key>
+      <PropertyRef Name="KullaniciKodu" />
+    </Key>
+    <Property Name="KullaniciKodu" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Ad" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Soyad" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Sifre" Type="nvarchar" MaxLength="20" Nullable="false" />
+    <Property Name="Yetki" Type="bit" Nullable="false" />
+    <Property Name="EvTel" Type="nvarchar" MaxLength="20" />
+    <Property Name="CepTel" Type="nvarchar" MaxLength="20" />
+    <Property Name="Adres" Type="nvarchar" MaxLength="255" />
+    <Property Name="Unvan" Type="nvarchar" MaxLength="50" />
+    <Property Name="IseBaslama" Type="datetime" />
+    <Property Name="Maas" Type="nvarchar" MaxLength="20" />
+    <Property Name="DogumYeri" Type="nvarchar" MaxLength="50" />
+    <Property Name="AnneAdi" Type="nvarchar" MaxLength="20" />
+    <Property Name="BabaAdi" Type="nvarchar" MaxLength="20" />
+    <Property Name="Cinsiyet" Type="nvarchar" MaxLength="5" Nullable="false" />
+    <Property Name="KanGrubu" Type="nvarchar" MaxLength="5" />
+    <Property Name="MedeniHal" Type="nvarchar" MaxLength="10" Nullable="false" />
+    <Property Name="DogumTarihi" Type="datetime" />
+    <Property Name="TckimlikNo" Type="nvarchar" MaxLength="11" Nullable="false" />
+    <Property Name="Username" Type="nvarchar" MaxLength="50" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Poliklinik">
+    <Key>
+      <PropertyRef Name="PoliklinikId" />
+    </Key>
+    <Property Name="PoliklinikId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="PoliklinikAdi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Durum" Type="bit" Nullable="false" />
+    <Property Name="Aciklama" Type="nvarchar" MaxLength="255" />
+  </EntityType>
+  <EntityType Name="Sevk">
+    <Key>
+      <PropertyRef Name="SevkId" />
+    </Key>
+    <Property Name="SevkId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="DosyaNo" Type="int" Nullable="false" />
+    <Property Name="PoliklinikId" Type="int" Nullable="false" />
+    <Property Name="IslemId" Type="int" />
+    <Property Name="SevkTarihi" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="Saat" Type="nvarchar" MaxLength="10" />
+    <Property Name="DrKod" Type="int" />
+    <Property Name="Miktar" Type="int" />
+    <Property Name="BirimFiyat" Type="nvarchar" MaxLength="20" />
+    <Property Name="Sira" Type="int" />
+    <Property Name="ToplamTutar" Type="nvarchar" MaxLength="50" />
+    <Property Name="Taburcu" Type="bit" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_Cikis_Hasta">
+    <End Role="Hasta" Type="Self.Hasta" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Cikis" Type="Self.Cikis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Hasta">
+        <PropertyRef Name="DosyaNo" />
+      </Principal>
+      <Dependent Role="Cikis">
+        <PropertyRef Name="DosyaNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sevk_Hasta">
+    <End Role="Hasta" Type="Self.Hasta" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Sevk" Type="Self.Sevk" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Hasta">
+        <PropertyRef Name="DosyaNo" />
+      </Principal>
+      <Dependent Role="Sevk">
+        <PropertyRef Name="DosyaNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sevk_Islem">
+    <End Role="Islem" Type="Self.Islem" Multiplicity="0..1" />
+    <End Role="Sevk" Type="Self.Sevk" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Islem">
+        <PropertyRef Name="IslemId" />
+      </Principal>
+      <Dependent Role="Sevk">
+        <PropertyRef Name="IslemId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sevk_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="0..1" />
+    <End Role="Sevk" Type="Self.Sevk" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="KullaniciKodu" />
+      </Principal>
+      <Dependent Role="Sevk">
+        <PropertyRef Name="DrKod" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sevk_Poliklinik">
+    <End Role="Poliklinik" Type="Self.Poliklinik" Multiplicity="1" />
+    <End Role="Sevk" Type="Self.Sevk" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Poliklinik">
+        <PropertyRef Name="PoliklinikId" />
+      </Principal>
+      <Dependent Role="Sevk">
+        <PropertyRef Name="PoliklinikId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="SOHATSModelStoreContainer">
+    <EntitySet Name="Cikis" EntityType="Self.Cikis" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Hasta" EntityType="Self.Hasta" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Islem" EntityType="Self.Islem" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kullanici" EntityType="Self.Kullanici" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Poliklinik" EntityType="Self.Poliklinik" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Sevk" EntityType="Self.Sevk" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Cikis_Hasta" Association="Self.FK_Cikis_Hasta">
+      <End Role="Hasta" EntitySet="Hasta" />
+      <End Role="Cikis" EntitySet="Cikis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sevk_Hasta" Association="Self.FK_Sevk_Hasta">
+      <End Role="Hasta" EntitySet="Hasta" />
+      <End Role="Sevk" EntitySet="Sevk" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sevk_Islem" Association="Self.FK_Sevk_Islem">
+      <End Role="Islem" EntitySet="Islem" />
+      <End Role="Sevk" EntitySet="Sevk" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sevk_Kullanici" Association="Self.FK_Sevk_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="Sevk" EntitySet="Sevk" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sevk_Poliklinik" Association="Self.FK_Sevk_Poliklinik">
+      <End Role="Poliklinik" EntitySet="Poliklinik" />
+      <End Role="Sevk" EntitySet="Sevk" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

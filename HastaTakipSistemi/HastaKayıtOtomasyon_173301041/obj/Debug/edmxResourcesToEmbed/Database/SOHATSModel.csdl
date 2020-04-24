@@ -1,0 +1,269 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="SOHATSModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Cikis">
+    <Key>
+      <PropertyRef Name="CikisId" />
+    </Key>
+    <Property Name="CikisId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DosyaNo" Type="Int32" Nullable="false" />
+    <Property Name="SevkTarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="CikisTarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Odeme" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="ToplamTutar" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Hasta" Relationship="Self.FK_Cikis_Hasta" FromRole="Cikis" ToRole="Hasta" />
+  </EntityType>
+  <EntityType Name="Hasta">
+    <Key>
+      <PropertyRef Name="DosyaNo" />
+    </Key>
+    <Property Name="DosyaNo" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="TckimlikNo" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Ad" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Soyad" Type="String" MaxLength="15" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DogumYeri" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="DogumTarihi" Type="DateTime" Precision="3" />
+    <Property Name="BabaAdi" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="AnneAdi" Type="String" MaxLength="15" FixedLength="false" Unicode="true" />
+    <Property Name="Cinsiyet" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="KanGrubu" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="MedeniHal" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="Adres" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Tel" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="KurumSicilNo" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="KurumAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="YakinTel" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="YakinKurumSicilNo" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="YakinKurumAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Cikis" Relationship="Self.FK_Cikis_Hasta" FromRole="Hasta" ToRole="Cikis" />
+    <NavigationProperty Name="Sevk" Relationship="Self.FK_Sevk_Hasta" FromRole="Hasta" ToRole="Sevk" />
+  </EntityType>
+  <EntityType Name="Islem">
+    <Key>
+      <PropertyRef Name="IslemId" />
+    </Key>
+    <Property Name="IslemId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="IslemAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="BirimFiyat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Sevk" Relationship="Self.FK_Sevk_Islem" FromRole="Islem" ToRole="Sevk" />
+  </EntityType>
+  <EntityType Name="Kullanici">
+    <Key>
+      <PropertyRef Name="KullaniciKodu" />
+    </Key>
+    <Property Name="KullaniciKodu" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="Ad" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Soyad" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Sifre" Type="String" MaxLength="20" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Yetki" Type="Boolean" Nullable="false" />
+    <Property Name="EvTel" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="CepTel" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Adres" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Unvan" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="IseBaslama" Type="DateTime" Precision="3" />
+    <Property Name="Maas" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="DogumYeri" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="AnneAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="BabaAdi" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Cinsiyet" Type="String" MaxLength="5" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="KanGrubu" Type="String" MaxLength="5" FixedLength="false" Unicode="true" />
+    <Property Name="MedeniHal" Type="String" MaxLength="10" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="DogumTarihi" Type="DateTime" Precision="3" />
+    <Property Name="TckimlikNo" Type="String" MaxLength="11" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Username" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <NavigationProperty Name="Sevk" Relationship="Self.FK_Sevk_Kullanici" FromRole="Kullanici" ToRole="Sevk" />
+  </EntityType>
+  <EntityType Name="Poliklinik">
+    <Key>
+      <PropertyRef Name="PoliklinikId" />
+    </Key>
+    <Property Name="PoliklinikId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="PoliklinikAdi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Durum" Type="Boolean" Nullable="false" />
+    <Property Name="Aciklama" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Sevk" Relationship="Self.FK_Sevk_Poliklinik" FromRole="Poliklinik" ToRole="Sevk" />
+  </EntityType>
+  <EntityType Name="Sevk">
+    <Key>
+      <PropertyRef Name="SevkId" />
+    </Key>
+    <Property Name="SevkId" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DosyaNo" Type="Int32" Nullable="false" />
+    <Property Name="PoliklinikId" Type="Int32" Nullable="false" />
+    <Property Name="IslemId" Type="Int32" />
+    <Property Name="SevkTarihi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Saat" Type="String" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="DrKod" Type="Int32" />
+    <Property Name="Miktar" Type="Int32" />
+    <Property Name="BirimFiyat" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="Sira" Type="Int32" />
+    <Property Name="ToplamTutar" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="Taburcu" Type="Boolean" />
+    <NavigationProperty Name="Hasta" Relationship="Self.FK_Sevk_Hasta" FromRole="Sevk" ToRole="Hasta" />
+    <NavigationProperty Name="Islem" Relationship="Self.FK_Sevk_Islem" FromRole="Sevk" ToRole="Islem" />
+    <NavigationProperty Name="Kullanici" Relationship="Self.FK_Sevk_Kullanici" FromRole="Sevk" ToRole="Kullanici" />
+    <NavigationProperty Name="Poliklinik" Relationship="Self.FK_Sevk_Poliklinik" FromRole="Sevk" ToRole="Poliklinik" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <Association Name="FK_Cikis_Hasta">
+    <End Role="Hasta" Type="Self.Hasta" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Cikis" Type="Self.Cikis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Hasta">
+        <PropertyRef Name="DosyaNo" />
+      </Principal>
+      <Dependent Role="Cikis">
+        <PropertyRef Name="DosyaNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sevk_Hasta">
+    <End Role="Hasta" Type="Self.Hasta" Multiplicity="1">
+      <OnDelete Action="Cascade" />
+    </End>
+    <End Role="Sevk" Type="Self.Sevk" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Hasta">
+        <PropertyRef Name="DosyaNo" />
+      </Principal>
+      <Dependent Role="Sevk">
+        <PropertyRef Name="DosyaNo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sevk_Islem">
+    <End Role="Islem" Type="Self.Islem" Multiplicity="0..1" />
+    <End Role="Sevk" Type="Self.Sevk" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Islem">
+        <PropertyRef Name="IslemId" />
+      </Principal>
+      <Dependent Role="Sevk">
+        <PropertyRef Name="IslemId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sevk_Kullanici">
+    <End Role="Kullanici" Type="Self.Kullanici" Multiplicity="0..1" />
+    <End Role="Sevk" Type="Self.Sevk" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kullanici">
+        <PropertyRef Name="KullaniciKodu" />
+      </Principal>
+      <Dependent Role="Sevk">
+        <PropertyRef Name="DrKod" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Sevk_Poliklinik">
+    <End Role="Poliklinik" Type="Self.Poliklinik" Multiplicity="1" />
+    <End Role="Sevk" Type="Self.Sevk" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Poliklinik">
+        <PropertyRef Name="PoliklinikId" />
+      </Principal>
+      <Dependent Role="Sevk">
+        <PropertyRef Name="PoliklinikId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="SohatsContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Cikis" EntityType="Self.Cikis" />
+    <EntitySet Name="Hasta" EntityType="Self.Hasta" />
+    <EntitySet Name="Islem" EntityType="Self.Islem" />
+    <EntitySet Name="Kullanici" EntityType="Self.Kullanici" />
+    <EntitySet Name="Poliklinik" EntityType="Self.Poliklinik" />
+    <EntitySet Name="Sevk" EntityType="Self.Sevk" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <AssociationSet Name="FK_Cikis_Hasta" Association="Self.FK_Cikis_Hasta">
+      <End Role="Hasta" EntitySet="Hasta" />
+      <End Role="Cikis" EntitySet="Cikis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sevk_Hasta" Association="Self.FK_Sevk_Hasta">
+      <End Role="Hasta" EntitySet="Hasta" />
+      <End Role="Sevk" EntitySet="Sevk" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sevk_Islem" Association="Self.FK_Sevk_Islem">
+      <End Role="Islem" EntitySet="Islem" />
+      <End Role="Sevk" EntitySet="Sevk" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sevk_Kullanici" Association="Self.FK_Sevk_Kullanici">
+      <End Role="Kullanici" EntitySet="Kullanici" />
+      <End Role="Sevk" EntitySet="Sevk" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Sevk_Poliklinik" Association="Self.FK_Sevk_Poliklinik">
+      <End Role="Poliklinik" EntitySet="Poliklinik" />
+      <End Role="Sevk" EntitySet="Sevk" />
+    </AssociationSet>
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+    <FunctionImport Name="sp_alterdiagram1">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram1">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram1">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition1">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams1">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram1">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams1" />
+  </EntityContainer>
+</Schema>

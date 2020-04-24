@@ -1,0 +1,48 @@
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.exe.config
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.exe
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.pdb
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.dll
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.xml
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyonu.csprojAssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.GirisForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.HastaBilgileriForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.HastaIslemleriForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.KullaniciTanitmaForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.KullaniciTanitmaOnForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.LoginForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.Properties.Resources.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.PoliklinikTanitmaForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.PoliklinikTanitmaOnForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.RaporlarForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.TaburcuForm.resources
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyonu.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyonu.csproj.CopyComplete
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.exe
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.pdb
+C:\Users\semih\OneDrive\Masaüstü\semih ödev - Kopya - Kopya\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.DosyaAraForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.exe.config
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.exe
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\bin\Debug\HastaKayıtOtomasyon_173301041.pdb
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.dll
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.xml
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyonu.csprojAssemblyReference.cache
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.GirisForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.DosyaAraForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.HastaBilgileriForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.HastaIslemleriForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.KullaniciTanitmaForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.KullaniciTanitmaOnForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.LoginForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.Properties.Resources.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.PoliklinikTanitmaForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.PoliklinikTanitmaOnForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.RaporlarForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.TaburcuForm.resources
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyonu.csproj.GenerateResource.cache
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyonu.csproj.CopyComplete
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.exe
+C:\Users\semih\OneDrive\Masaüstü\HastaTakipSistemi\HastaKayıtOtomasyon_173301041\obj\Debug\HastaKayıtOtomasyon_173301041.pdb
